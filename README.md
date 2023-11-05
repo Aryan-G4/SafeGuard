@@ -1,4 +1,4 @@
-#Safety.net
+# Safety.net
 Aryan Ghosh | Simon Louis
 
 ## Inspiration
