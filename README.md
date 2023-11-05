@@ -1,5 +1,5 @@
 # Safety.net
-Aryan Ghosh | Simon Louis
+### Aryan Ghosh | Simon Louis
 
 ## Inspiration
 Even in the modern day, the threat of war is imminent for thousands, if not millions, of people around the world. Many citizens may be unaware of dangerous events or areas around them, which is a life-threatening issue. We wanted to create a program to give these people information on where they can go for food, shelter, education, and medical services while simultaneously avoiding areas that have been reported to be dangerous.
